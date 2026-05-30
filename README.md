@@ -60,6 +60,6 @@
 ## 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shravan-chaudhari-91699a1b6/)  
-[![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/shravn__)
+[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/shravn__)
 
  - Join me on my 100 days on code challenge on x
