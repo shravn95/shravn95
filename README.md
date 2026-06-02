@@ -4,7 +4,7 @@
 
 🚀 21 y/o Software Engineer | Full-stack Web Dev  
 💻 I build apps with **Next.js, Node.js, TypeScript, JavaScript**  
-🌍 Dreaming big & working towards remote dev opportunities
+🌍 Dreaming big & working towards getting remote dev opportunities
 
 ---
 
