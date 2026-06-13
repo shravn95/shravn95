@@ -3,7 +3,7 @@
 </h1>
 
 🚀 21 y/o Software Engineer | Full-stack Web Developer   
-💻 I build apps with **Next.js, Node.js, TypeScript, JavaScript**  
+💻 I build apps with **TypeScript, JavaScript, Next.js, Node.js**  
 🌍 Dreaming big & working towards getting remote dev opportunities
 
 ---
