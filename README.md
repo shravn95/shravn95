@@ -10,7 +10,7 @@
 
 ## ⚡ Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,react,tailwind,git,firebase,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,react,tailwind,git,postgres,docker,express,mongodb,pnpm)](https://skillicons.dev)
 
 ---
 
