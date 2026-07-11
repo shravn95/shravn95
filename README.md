@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shravan+👋;🚀+Dreaming+big+%26+shipping+fast" alt="Typing Animation"/>
 </h1>
 
-<img align="right" src="./assets/retro2_live.gif" width="320">
+<img align="right" src="./assets/retro2_live.gif" width="400">
 
 🚀 **21 y/o Software Engineer | Full-Stack Developer**
 
@@ -10,6 +10,14 @@
 
 🌍 Working towards remote dev opportunities
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 ---
 
 ## ⚡ Tech Stack
