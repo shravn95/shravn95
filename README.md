@@ -3,11 +3,14 @@
 </h1>
 
 <img align="right" src="./assets/retro2_live.gif" width="320">
-<p>
-🚀 **21 y/o Software Engineer | Full-Stack Developer**<br>
-💻 Building with **TypeScript, JavaScript, Next.js, Node.js**<br>
+
+🚀 **21 y/o Software Engineer | Full-Stack Developer**
+
+💻 Building with **TypeScript, JavaScript, Next.js, Node.js**
+
 🌍 Working towards remote dev opportunities
-</p>
+
+---
 
 ## ⚡ Tech Stack
 
