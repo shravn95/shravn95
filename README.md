@@ -1,63 +1,52 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shravan+👋;🚀Dreaming+big+%26+shipping+fast+%F0%9F%9A%80" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&weight=400&size=15&duration=3000&pause=1000&color=FF2E88&center=true&vCenter=true&width=760&height=80&lines=Hey%2C+I'm+Shravan+👋;🚀+Dreaming+big+%26+shipping+fast+🚀" alt="Typing Animation" />
 </h1>
 
-🚀 21 y/o Software Engineer | Full-stack Web Developer   
-💻 I build apps with **TypeScript, JavaScript, Next.js, Node.js**  
-🌍 Dreaming big & working towards getting remote dev opportunities
+<div align="center">
+  <img src="assets/retro2_live.gif" width="680" alt="pixel art coding at night">
+</div>
 
----
+<br>
 
-## ⚡ Tech Stack
+🚀 21 y/o Software Engineer | Full-stack Web Developer
+💻 I build apps with `TypeScript`, `JavaScript`, `Next.js`, `Node.js`
+🤖 Now spending most of that time building in AI
+
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&color=FF2E88&center=true&vCenter=true&repeat=false&width=220&height=40&lines=STACK" alt="Stack">
+</div>
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,react,tailwind,git,postgres,docker,express,mongodb,pnpm)](https://skillicons.dev)
 
----
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imshravan26&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imshravan26&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## 🐍 Watch my contributions get eaten by a snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/imshravan26/imshravan26/output/github-snake-dark.svg?palette=github-dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/imshravan26/imshravan26/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/imshravan26/imshravan26/output/github-snake.svg" />
-</picture>
-
->
-
----
-
-## 😂 Random Dev Meme 
-
-<!-- Generated on 2026-06-27 -->
 <div align="center">
-<h3>🤖 Programming Meme of the Day</h3>
-<p><em>Programmer (noun):
-An organism that turns
-coffee into code</em></p>
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&color=FF2E88&center=true&vCenter=true&repeat=false&width=220&height=40&lines=FOCUS" alt="Focus">
 </div>
 
-<!-- meme:end -->
+▸ Mastering `full-stack engineering` with scalable projects
+▸ Exploring `AI + agentic systems`
+▸ Building SaaS products that actually solve problems
 
----
+```
+▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
+```
 
-## 🎯 Current Focus
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&color=FF2E88&center=true&vCenter=true&repeat=false&width=280&height=40&lines=CONNECT" alt="Connect">
+</div>
 
-- Mastering **Software Development** with scalable projects
-- Exploring **AI + agentic systems**
-- Building SaaS products that actually solve problems
+<div align="center">
 
----
-
-## 🌐 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shravan-chaudhari-91699a1b6/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shravan-chaudhari-91699a1b6/)
 [![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/shravn__)
+
+<sub>insert coin to continue →</sub>
+
+</div>
