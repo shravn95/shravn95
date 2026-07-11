@@ -2,15 +2,23 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shravan+👋;🚀+Dreaming+big+%26+shipping+fast" alt="Typing Animation"/>
 </h1>
 
-<p align="right">
-  <img src="./assets/retro2_live.gif" width="350">
-</p>
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="65%" valign="top">
 
-<p>
 🚀 **21 y/o Software Engineer | Full-Stack Developer**<br>
 💻 Building with **TypeScript, JavaScript, Next.js, Node.js**<br>
 🌍 Working towards remote dev opportunities
-</p>
+
+</td>
+
+<td width="35%" align="right">
+
+<img src="./assets/retro2_live.gif" width="350"/>
+
+</td>
+</tr>
+</table>
 
 ## ⚡ Tech Stack
 
