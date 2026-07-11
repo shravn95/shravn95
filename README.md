@@ -26,7 +26,11 @@
 
 ---
 
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=shravn__)](https://github.com/gazf/github-readme-twitter)
+<p align="center">
+  <img src="./assets/retro2_live.gif" alt="Coding GIF" width="800" />
+</p>
+
+---
 
 ## 🌐 Connect With Me
 
