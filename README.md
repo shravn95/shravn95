@@ -4,9 +4,7 @@
 
 <table>
 <tr>
-<td width="60%" valign="top">
-
-## 👋 Hey, I'm Shravan
+<td valign="top">
 
 🚀 **21 y/o Software Engineer | Full-Stack Developer**
 
@@ -15,10 +13,9 @@
 🌍 Working towards remote dev opportunities
 
 </td>
+<td align="right">
 
-<td width="40%" align="right">
-
-<img src="./assets/retro2_live.gif" alt="Coding GIF" width="350"/>
+<img src="./assets/retro2_live.gif" width="400">
 
 </td>
 </tr>
