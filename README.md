@@ -1,41 +1,40 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Space+Mono&weight=700&size=30&pause=1000&color=D98E4A&center=true&vCenter=true&width=560&height=60&lines=Shravan;Full-stack+developer%2C+now+building+in+AI" alt="Shravan — full-stack developer, now building in AI" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shravan+👋;🚀+Dreaming+big+%26+shipping+fast" alt="Typing Animation" />
+</h1>
 
-<div align="center">
-  <img src="assets/retro2_live.gif" width="640" alt="pixel art coding at night">
-</div>
+<p align="center">
+  🚀 21 y/o Software Engineer | Full-Stack Developer <br/>
+  💻 Building with <b>TypeScript, JavaScript, Next.js, Node.js</b> <br/>
+  🌍 Working towards remote dev opportunities
+</p>
 
-<br>
+---
 
-🚀 21 y/o Software Engineer | Full-stack Web Developer
-💻 I build apps with `TypeScript`, `JavaScript`, `Next.js`, `Node.js`
+## ⚡ Tech Stack
 
-<p align="center">· · ·</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,react,tailwind,git,postgres,docker,express,mongodb,pnpm" />
+  </a>
+</p>
 
-<h3 align="center">STACK</h3>
+## 🎯 Current Focus
 
-<div align="center">
+- 🚀 Building **scalable software projects**
+- 🤖 Exploring **AI + agentic systems**
+- 💡 Creating **SaaS products that solve real problems**
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nextjs,nodejs,react,tailwind,git,postgres,docker,express,mongodb,pnpm)](https://skillicons.dev)
+---
 
-</div>
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=shravn__)](https://github.com/gazf/github-readme-twitter)
 
-<p align="center">· · ·</p>
+## 🌐 Connect With Me
 
-<h3 align="center">FOCUS</h3>
-
-▸ Mastering `full-stack engineering` with scalable projects
-▸ Exploring `AI + agentic systems`
-▸ Building SaaS products that actually solve problems
-
-<p align="center">· · ·</p>
-
-<h3 align="center">CONNECT</h3>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shravan-chaudhari-91699a1b6/)
-[![X](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x)](https://x.com/shravn__)
-
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shravan-chaudhari-91699a1b6/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://x.com/shravn__">
+    <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x" />
+  </a>
+</p>
