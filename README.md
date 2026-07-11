@@ -1,17 +1,27 @@
-<h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shravan+👋;🚀+Dreaming+big+%26+shipping+fast" alt="Typing Animation" />
-  <p align="right">
-  <img src="./assets/retro2_live.gif" alt="Coding GIF" width="400" />
-</p>
+<div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shravan+👋;🚀+Dreaming+big+%26+shipping+fast" alt="Typing Animation"/>
 </h1>
 
-<div>
-<p align="left">
-  🚀 21 y/o Software Engineer | Full-Stack Developer <br/>
-  💻 Building with <b>TypeScript, JavaScript, Next.js, Node.js</b> <br/>
-  🌍 Working towards remote dev opportunities
-</p>
+<table>
+<tr>
+<td width="60%" valign="top">
 
+🚀 **21 y/o Software Engineer | Full-Stack Developer**
+
+💻 Building with **TypeScript, JavaScript, Next.js, Node.js**
+
+🌍 Working towards remote dev opportunities
+
+</td>
+
+<td width="40%" align="right">
+
+<img src="./assets/retro2_live.gif" alt="Coding GIF" width="350"/>
+
+</td>
+</tr>
+</table>
 </div>
 
 ## ⚡ Tech Stack
