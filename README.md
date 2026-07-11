@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shravan+👋;🚀+Dreaming+big+%26+shipping+fast" alt="Typing Animation"/>
 </h1>
 
@@ -15,10 +15,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
----
 
 ## ⚡ Tech Stack
 
