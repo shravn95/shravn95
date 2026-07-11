@@ -2,13 +2,18 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Shravan+👋;🚀+Dreaming+big+%26+shipping+fast" alt="Typing Animation" />
 </h1>
 
-<p align="center">
+<div>
+<p align="left">
   🚀 21 y/o Software Engineer | Full-Stack Developer <br/>
   💻 Building with <b>TypeScript, JavaScript, Next.js, Node.js</b> <br/>
   🌍 Working towards remote dev opportunities
 </p>
 
----
+<p align="right">
+  <img src="./assets/retro2_live.gif" alt="Coding GIF" width="800" />
+</p>
+
+</div>
 
 ## ⚡ Tech Stack
 
@@ -24,17 +29,9 @@
 - 🤖 Exploring **AI + agentic systems**
 - 💡 Creating **SaaS products that solve real problems**
 
----
-
-<p align="center">
-  <img src="./assets/retro2_live.gif" alt="Coding GIF" width="800" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/shravan-chaudhari-91699a1b6/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
